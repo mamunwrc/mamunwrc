@@ -25,7 +25,7 @@ high-availability systems.
 
 **Running JOB: System Administrator (2nd May 2024 – Continuing - 2 yr+)**
 
-Company Name: SJ Innovation LLC,
+Company Name: SJ Innovation LLC
 
 Duties/Responsibilities:
 
