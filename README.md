@@ -9,10 +9,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love DevOps
 
+
 **Employment History:
 Total Year of Experience: 5+ yrs**
 
 **Professional Summary:**
+
 DevOps/System Administrator/Network Engineer with experience in Cloude Computing and virtualization,
 automating CI/CD pipelines using Jenkins, GitHub Actions, Docker, K8s, Terraform, Ansible, and other tools.
 Automated routine server tasks and provisioning using Bash and Python scripting. Experienced in administering
@@ -20,8 +22,10 @@ Google Workspace, SMTP, and CRM-related email services. Skilled in WHM/cPanel-re
 AWS, Azure and GCP infrastructure, server management, network optimization, and hardware optimization for
 high-availability systems.
 
+
 **Running JOB: System Administrator (2nd May 2024 – Continuing - 2 yr+)**
-Company Name: SJ Innovation LLC
+
+Company Name: SJ Innovation LLC,
 Duties/Responsibilities:
 
 **Server Task:**
