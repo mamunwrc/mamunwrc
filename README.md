@@ -26,5 +26,10 @@ DevOps / System Administrator with 5+ years managing cloud infrastructure, CI/CD
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-### 📊 GitHub Stats
-![Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamunwrc&show_icons=true&theme=default&hide_border=true)
+### 📇 Contact
+- 📧 Personal: mamunwrc71@gmail.com
+- 💼 Office: mamun.hossain@sjinnovation.com
+
+
+
+- 📱 Phone/WhatsApp: +8801733859090
